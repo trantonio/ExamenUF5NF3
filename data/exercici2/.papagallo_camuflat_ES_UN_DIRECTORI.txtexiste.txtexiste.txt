@@ -1,0 +1,1 @@
+data/exercici2/.papagallo_camuflat_ES_UN_DIRECTORI.txtexiste.txt
